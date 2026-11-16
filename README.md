@@ -19,13 +19,6 @@ About the Series;
 - Unexpected plot twists.
 - Harvey Specter's confidence and negotiation skills.
 
-# My Favorite Things About the Series
-
-- Interesting courtroom cases and legal strategies.
-- Smart conversations and memorable quotes.
-- Strong friendship and teamwork.
-- Unexpected plot twists.
-- Harvey Specter's confidence and negotiation skills.
 
 
 
