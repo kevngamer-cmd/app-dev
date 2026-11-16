@@ -4,7 +4,6 @@ My first repository
 
 # My Favorite Series: Suits
 
-About the Series
 <img width="452" height="678" alt="images" src="https://github.com/user-attachments/assets/86ed1ee5-03ac-4281-8719-65907945c3f7" />
 
 About the Series;
@@ -19,4 +18,14 @@ About the Series;
 - Strong friendship and teamwork.
 - Unexpected plot twists.
 - Harvey Specter's confidence and negotiation skills.
+
+# My Favorite Things About the Series
+
+- Interesting courtroom cases and legal strategies.
+- Smart conversations and memorable quotes.
+- Strong friendship and teamwork.
+- Unexpected plot twists.
+- Harvey Specter's confidence and negotiation skills.
+
+
 
